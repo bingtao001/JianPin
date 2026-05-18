@@ -15,5 +15,8 @@ DerivedData/
 # App icon source (generated .icns is committed, source PNGs are not)
 Resources/AppIcon.iconset/
 
+# Release binaries (upload to GitHub Releases instead)
+Releases/
+
 # Editor temp files
 *~
