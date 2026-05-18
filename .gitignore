@@ -1,0 +1,19 @@
+# Build
+.build/
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# App icon source (generated .icns is committed, source PNGs are not)
+Resources/AppIcon.iconset/
+
+# Editor temp files
+*~
